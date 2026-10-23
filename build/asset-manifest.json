@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Veridoc-AI/static/css/main.52009c5c.css",
+    "main.js": "/Veridoc-AI/static/js/main.2bd3f6b9.js",
+    "index.html": "/Veridoc-AI/index.html",
+    "main.52009c5c.css.map": "/Veridoc-AI/static/css/main.52009c5c.css.map",
+    "main.2bd3f6b9.js.map": "/Veridoc-AI/static/js/main.2bd3f6b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52009c5c.css",
+    "static/js/main.2bd3f6b9.js"
+  ]
+}
